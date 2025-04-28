@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - CREO\\Creo 2024-2025\\Complexe\\code map\\L10\\Type Conversions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABDC3575-FEE7-4B21-BBDA-132F38A48FD0}|Type Conversions\\Type Conversions.csproj|d:\\onedrive - creo\\creo 2024-2025\\complexe\\code map\\l10\\type conversions\\type conversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABDC3575-FEE7-4B21-BBDA-132F38A48FD0}|Type Conversions\\Type Conversions.csproj|solutionrelative:type conversions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive - CREO\\Creo 2024-2025\\Complexe\\code map\\L10\\Type Conversions\\Type Conversions\\Program.cs",
+              "RelativeDocumentMoniker": "Type Conversions\\Program.cs",
+              "ToolTip": "D:\\OneDrive - CREO\\Creo 2024-2025\\Complexe\\code map\\L10\\Type Conversions\\Type Conversions\\Program.cs",
+              "RelativeToolTip": "Type Conversions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T12:39:16.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
