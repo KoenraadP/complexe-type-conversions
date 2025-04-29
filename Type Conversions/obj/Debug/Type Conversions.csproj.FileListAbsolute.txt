@@ -1,0 +1,7 @@
+C:\Users\koenraad.pecceu\Documents\complexe\L10\complexe-type-conversions\Type Conversions\bin\Debug\Type Conversions.exe.config
+C:\Users\koenraad.pecceu\Documents\complexe\L10\complexe-type-conversions\Type Conversions\bin\Debug\Type Conversions.exe
+C:\Users\koenraad.pecceu\Documents\complexe\L10\complexe-type-conversions\Type Conversions\bin\Debug\Type Conversions.pdb
+C:\Users\koenraad.pecceu\Documents\complexe\L10\complexe-type-conversions\Type Conversions\obj\Debug\Type Conversions.csproj.AssemblyReference.cache
+C:\Users\koenraad.pecceu\Documents\complexe\L10\complexe-type-conversions\Type Conversions\obj\Debug\Type Conversions.csproj.CoreCompileInputs.cache
+C:\Users\koenraad.pecceu\Documents\complexe\L10\complexe-type-conversions\Type Conversions\obj\Debug\Type Conversions.exe
+C:\Users\koenraad.pecceu\Documents\complexe\L10\complexe-type-conversions\Type Conversions\obj\Debug\Type Conversions.pdb
